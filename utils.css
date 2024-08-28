@@ -1,0 +1,34 @@
+.text-center {
+    text-align: center;
+}
+
+.bg-color {
+    background: #6a9ae2;
+}
+
+.mx-auto {
+    margin: auto;
+}
+
+.flex {
+    display: flex;
+}
+
+.flex-col {
+    flex-direction: column;
+    width: 25%;
+    padding: 50px 20px;
+    border-radius: 7px;
+}
+
+.items-center {
+    align-items: center;
+}
+
+.bg-orange {
+    background: orange;
+}
+
+.bg-gray {
+    background: #979595;
+}
